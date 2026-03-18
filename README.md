@@ -235,11 +235,9 @@ Mixed PCM Ring Buffer → Speaker (cpal, 48kHz, volume scaling + deafen)
 
 ## :framed_picture: Screenshots
 
-<!-- screenshots coming soon -->
+*Screenshots of the desktop application, voice channels, chat interface, settings panel, and gaming overlay.*
 
-*Screenshots of the desktop application, voice channels, chat interface, settings panel, and gaming overlay will be added here.*
-
-<!-- screenshots coming soon -->
+> Screenshots available upon request.
 
 ---
 
